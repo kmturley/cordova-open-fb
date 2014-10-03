@@ -1,0 +1,14 @@
+2014-10-03 09:32:16.934 HelloCordova[78233:70b] Multi-tasking -> Device: YES, App: YES
+2014-10-03 09:32:16.979 HelloCordova[78233:70b] Unlimited access to network resources
+2014-10-03 09:32:16.982 HelloCordova[78233:70b] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-10-03 09:32:17.332 HelloCordova[78233:70b] Resetting plugins due to page load.
+2014-10-03 09:32:17.480 HelloCordova[78233:70b] Finished load of: file:///Users/kimturley/Library/Application%20Support/iPhone%20Simulator/7.1/Applications/527E31CC-D3DA-4DEA-9D98-2B715B621C8B/HelloCordova.app/www/index.html
+2014-10-03 09:32:20.632 HelloCordova[78233:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
+2014-10-03 09:32:20.640 HelloCordova[78233:70b] THREAD WARNING: ['InAppBrowser'] took '53.890137' ms. Plugin should use a background thread.
+2014-10-03 09:32:35.524 HelloCordova[78233:70b] Setting the WebView's frame to {{0, 0}, {320, 436}}
