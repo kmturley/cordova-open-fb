@@ -11,7 +11,12 @@ The following technologies are used in the app:
 
 Install [Apache Cordova](http://cordova.apache.org/) then navigate to the site root within terminal and run the commands:
 
+    cordova platform add ios
     cordova emulate ios
+
+Or for android run the commands:
+
+    cordova platform add android
     cordova emulate android
 
 ## Running the app during development
